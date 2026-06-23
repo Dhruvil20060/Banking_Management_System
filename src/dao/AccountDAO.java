@@ -16,7 +16,7 @@ public class AccountDAO {
         accountList = new ArrayList<>();
     }
 
-    // Save Accounts
+    // Save Account
 
     public void save(Account account) {
 
